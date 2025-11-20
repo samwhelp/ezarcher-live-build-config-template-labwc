@@ -1,2 +1,25 @@
+
+
 # ezarcher-live-build-config-template-labwc
-ezarcher-live-build-config-template-labwc
+
+
+
+
+## Home
+
+> [ezarcher-live-build-config-template-labwc](https://samwhelp.github.io/ezarcher-live-build-config-template-labwc/)
+
+| Project |
+| ------- |
+| [ezarcher-live-build-config-template-labwc](https://github.com/samwhelp/ezarcher-live-build-config-template-labwc) |
+| `+` |
+| [ezarcher-live-build-remix-labwc](https://github.com/samwhelp/ezarcher-live-build-remix-labwc) |
+| `=` |
+| [ezarcher-live-build-respin-labwc](https://github.com/samwhelp/ezarcher-live-build-respin-labwc) |
+
+
+
+
+## Version
+
+> SourceForge / Ezarcher / [Files](https://sourceforge.net/projects/ezarch/files/) / 20251101
